@@ -1,0 +1,1055 @@
+[
+  {
+    "id": 1,
+    "name": "Ashwini",
+    "start_degree": 0.0,
+    "end_degree": 13.3333,
+    "ruler": "Ketu",
+    "deity": "Ashwini Kumaras (divine physicians)",
+    "symbol": "Horse's head",
+    "guna": "Rajas",
+    "element": "Fire",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "0.0–3.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "3.3333–6.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "6.6667–10.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "10.0–13.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Thrives as a pioneer, healer, or fast-mover; drawn to sports, medicine, and startups.",
+      "health": "Prone to head injuries and nervous tension; benefits from regular physical activity.",
+      "relationship": "Energetic and impulsive in love; needs a partner who matches their pace."
+    },
+    "compatibility": [
+      "Bharani",
+      "Pushya"
+    ],
+    "description": "Ashwini is the first nakshatra, symbolizing swift initiative and healing energy. Ruled by the divine physicians, it grants natives speed, courage, and a pioneering spirit. Those born under it are natural go-getters, often first to act in any situation."
+  },
+  {
+    "id": 2,
+    "name": "Bharani",
+    "start_degree": 13.3333,
+    "end_degree": 26.6667,
+    "ruler": "Venus",
+    "deity": "Yama (god of death and dharma)",
+    "symbol": "Yoni (womb)",
+    "guna": "Rajas",
+    "element": "Earth",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "13.3333–16.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "16.6666–20.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "20.0–23.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "23.3333–26.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to roles requiring transformation and letting go, such as surgery, law, or crisis management.",
+      "health": "Vulnerable to reproductive and abdominal issues; benefits from disciplined routines.",
+      "relationship": "Intense and passionate, but can struggle with control and jealousy."
+    },
+    "compatibility": [
+      "Krittika",
+      "Revati"
+    ],
+    "description": "Bharani represents the forces of restraint, transformation, and bearing burdens. Governed by Yama, it endows natives with strength through struggle and the ability to nurture life from difficulty. It carries deep creative and regenerative power."
+  },
+  {
+    "id": 3,
+    "name": "Krittika",
+    "start_degree": 26.6667,
+    "end_degree": 40.0,
+    "ruler": "Sun",
+    "deity": "Agni (god of fire)",
+    "symbol": "Axe / flame",
+    "guna": "Rajas",
+    "element": "Air",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "26.6667–30.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "30.0–33.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "33.3334–36.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "36.6667–40.0"
+      }
+    ],
+    "qualities": {
+      "career": "Excels in leadership, cutting-edge fields, and roles that demand sharp judgment.",
+      "health": "Prone to digestive heat and inflammation; needs cooling, balanced habits.",
+      "relationship": "Direct and fiery; commands respect but must soften criticism."
+    },
+    "compatibility": [
+      "Rohini",
+      "Ashwini"
+    ],
+    "description": "Krittika is the nakshatra of fire and sharp discernment, associated with cutting away illusion. It bestows natives with ambition, clarity, and leadership, though tempered with a fiery temperament. Its energy favors bold, decisive action."
+  },
+  {
+    "id": 4,
+    "name": "Rohini",
+    "start_degree": 40.0,
+    "end_degree": 53.3333,
+    "ruler": "Moon",
+    "deity": "Brahma / Prajapati (creator)",
+    "symbol": "Ox cart / chariot",
+    "guna": "Rajas",
+    "element": "Water",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "40.0–43.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "43.3333–46.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "46.6667–50.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "50.0–53.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Flourishes in creative, artistic, and luxury-oriented professions.",
+      "health": "Generally strong constitution; watch for throat and reproductive concerns.",
+      "relationship": "Charming and devoted; values beauty, comfort, and loyalty."
+    },
+    "compatibility": [
+      "Mrigashira",
+      "Krittika"
+    ],
+    "description": "Rohini is linked to growth, beauty, and material abundance, ruled by the Moon itself. Natives are often charming, artistic, and drawn to comfort and sensual pleasures. It is considered one of the most fertile and prosperous nakshatras."
+  },
+  {
+    "id": 5,
+    "name": "Mrigashira",
+    "start_degree": 53.3333,
+    "end_degree": 66.6667,
+    "ruler": "Mars",
+    "deity": "Soma / Chandra (moon god)",
+    "symbol": "Deer's head",
+    "guna": "Tamas",
+    "element": "Fire",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "53.3333–56.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "56.6666–60.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "60.0–63.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "63.3333–66.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to research, exploration, and inquisitive or investigative work.",
+      "health": "Prone to restlessness and anxiety; benefits from grounding practices.",
+      "relationship": "Curious and gentle, but can be indecisive or easily distracted."
+    },
+    "compatibility": [
+      "Ardra",
+      "Rohini"
+    ],
+    "description": "Mrigashira embodies searching and gentle curiosity, symbolized by a deer's head in pursuit. Natives are inquisitive, soft-spoken, and often restless seekers of knowledge or beauty. It favors exploration over settled routine."
+  },
+  {
+    "id": 6,
+    "name": "Ardra",
+    "start_degree": 66.6667,
+    "end_degree": 80.0,
+    "ruler": "Rahu",
+    "deity": "Rudra (storm god)",
+    "symbol": "Teardrop / gem",
+    "guna": "Tamas",
+    "element": "Earth",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "66.6667–70.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "70.0–73.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "73.3334–76.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "76.6667–80.0"
+      }
+    ],
+    "qualities": {
+      "career": "Drawn to intense, transformative work such as psychology, research, or crisis response.",
+      "health": "Sensitive nervous system; prone to stress-related ailments.",
+      "relationship": "Deeply emotional and empathetic; needs stability to feel secure."
+    },
+    "compatibility": [
+      "Punarvasu",
+      "Mrigashira"
+    ],
+    "description": "Ardra channels the intensity of storms and emotional transformation. Ruled by Rudra, it brings natives through turbulence toward renewal and insight. This nakshatra is associated with deep sensitivity beneath a turbulent exterior."
+  },
+  {
+    "id": 7,
+    "name": "Punarvasu",
+    "start_degree": 80.0,
+    "end_degree": 93.3333,
+    "ruler": "Jupiter",
+    "deity": "Aditi (mother of the gods)",
+    "symbol": "House / quiver of arrows",
+    "guna": "Sattva",
+    "element": "Air",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "80.0–83.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "83.3333–86.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "86.6667–90.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "90.0–93.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to teaching, counseling, and nurturing or renewal-based professions.",
+      "health": "Generally resilient; watch for issues tied to overextension and fatigue.",
+      "relationship": "Warm and forgiving; excels at renewing bonds after conflict."
+    },
+    "compatibility": [
+      "Pushya",
+      "Ashwini"
+    ],
+    "description": "Punarvasu signifies the theme of return and renewal, offering a second chance after hardship. Natives are nurturing, adaptable, and quick to recover from setbacks. It carries an optimistic, restorative energy."
+  },
+  {
+    "id": 8,
+    "name": "Pushya",
+    "start_degree": 93.3333,
+    "end_degree": 106.6667,
+    "ruler": "Saturn",
+    "deity": "Brihaspati (guru of the gods)",
+    "symbol": "Udder of a cow / lotus",
+    "guna": "Sattva",
+    "element": "Water",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "93.3333–96.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "96.6666–100.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "100.0–103.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "103.3333–106.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Thrives in nurturing, spiritual, or advisory roles such as counseling or education.",
+      "health": "Prone to weight and digestive fluctuations; benefits from steady routines.",
+      "relationship": "Caring and protective; a natural nurturer in relationships."
+    },
+    "compatibility": [
+      "Ashlesha",
+      "Punarvasu"
+    ],
+    "description": "Pushya is regarded as one of the most auspicious nakshatras, symbolizing nourishment and spiritual growth. Natives are caring, wise, and often drawn to service or guidance roles. It favors stability and long-term prosperity."
+  },
+  {
+    "id": 9,
+    "name": "Ashlesha",
+    "start_degree": 106.6667,
+    "end_degree": 120.0,
+    "ruler": "Mercury",
+    "deity": "Naga (serpent deities)",
+    "symbol": "Coiled serpent",
+    "guna": "Tamas",
+    "element": "Fire",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "106.6667–110.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "110.0–113.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "113.3334–116.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "116.6667–120.0"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to strategic, research-driven, or behind-the-scenes influential roles.",
+      "health": "Sensitive digestion and skin; benefits from detox-oriented habits.",
+      "relationship": "Magnetic and perceptive, but can be possessive or secretive."
+    },
+    "compatibility": [
+      "Magha",
+      "Pushya"
+    ],
+    "description": "Ashlesha represents the coiling, penetrating power of the serpent, associated with hidden wisdom and intensity. Natives can be perceptive and strategic, though prone to secrecy or manipulation if unbalanced. It favors deep psychological insight."
+  },
+  {
+    "id": 10,
+    "name": "Magha",
+    "start_degree": 120.0,
+    "end_degree": 133.3333,
+    "ruler": "Ketu",
+    "deity": "Pitrs / Ganesha (ancestors)",
+    "symbol": "Royal palanquin",
+    "guna": "Tamas",
+    "element": "Earth",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "120.0–123.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "123.3333–126.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "126.6667–130.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "130.0–133.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Excels in leadership, authority, and roles of public recognition.",
+      "health": "Prone to stress-related and heart concerns; needs relaxation practices.",
+      "relationship": "Regal and generous, yet can be domineering if unchecked."
+    },
+    "compatibility": [
+      "Purva Phalguni",
+      "Ashlesha"
+    ],
+    "description": "Magha connects to royal legacy, ancestry, and inherited power. Natives often carry natural authority, generosity, and a strong connection to tradition or lineage. It favors leadership rooted in a sense of responsibility."
+  },
+  {
+    "id": 11,
+    "name": "Purva Phalguni",
+    "start_degree": 133.3333,
+    "end_degree": 146.6667,
+    "ruler": "Venus",
+    "deity": "Bhaga (god of fortune)",
+    "symbol": "Front legs of a bed",
+    "guna": "Rajas",
+    "element": "Air",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "133.3333–136.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "136.6666–140.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "140.0–143.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "143.3333–146.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to arts, entertainment, and relationship-oriented professions.",
+      "health": "Generally vital; watch for reproductive and kidney health.",
+      "relationship": "Playful and affectionate; seeks pleasure and creative partnership."
+    },
+    "compatibility": [
+      "Uttara Phalguni",
+      "Magha"
+    ],
+    "description": "Purva Phalguni is tied to pleasure, creativity, and relationships, ruled by the god of fortune. Natives are charming, artistic, and drawn to enjoyment and romance. It favors partnerships built on mutual delight."
+  },
+  {
+    "id": 12,
+    "name": "Uttara Phalguni",
+    "start_degree": 146.6667,
+    "end_degree": 160.0,
+    "ruler": "Sun",
+    "deity": "Aryaman (god of contracts and honor)",
+    "symbol": "Back legs of a bed",
+    "guna": "Rajas",
+    "element": "Water",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "146.6667–150.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "150.0–153.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "153.3334–156.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "156.6667–160.0"
+      }
+    ],
+    "qualities": {
+      "career": "Thrives in service, healing, and partnership-based professions.",
+      "health": "Sturdy constitution; monitor back and lower body strain.",
+      "relationship": "Loyal and fair-minded; a dependable and generous partner."
+    },
+    "compatibility": [
+      "Hasta",
+      "Purva Phalguni"
+    ],
+    "description": "Uttara Phalguni represents contracts, fairness, and steady partnership, governed by the god of honor. Natives are generous, dependable, and skilled in cooperative ventures. It favors relationships and work built on integrity."
+  },
+  {
+    "id": 13,
+    "name": "Hasta",
+    "start_degree": 160.0,
+    "end_degree": 173.3333,
+    "ruler": "Moon",
+    "deity": "Savitr / Surya (sun god)",
+    "symbol": "Hand / fist",
+    "guna": "Rajas",
+    "element": "Fire",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "160.0–163.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "163.3333–166.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "166.6667–170.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "170.0–173.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Skilled in craftsmanship, hands-on work, and detailed technical fields.",
+      "health": "Prone to hand, arm, and skin issues; benefits from tactile activity.",
+      "relationship": "Warm and skillful in expressing affection; values reciprocity."
+    },
+    "compatibility": [
+      "Chitra",
+      "Uttara Phalguni"
+    ],
+    "description": "Hasta, symbolized by the hand, is associated with skill, dexterity, and practical mastery. Natives are resourceful and hands-on, excelling in crafts and detailed work. It favors precision and tangible achievement."
+  },
+  {
+    "id": 14,
+    "name": "Chitra",
+    "start_degree": 173.3333,
+    "end_degree": 186.6667,
+    "ruler": "Mars",
+    "deity": "Tvashtar / Vishwakarma (divine architect)",
+    "symbol": "Bright jewel / pearl",
+    "guna": "Tamas",
+    "element": "Earth",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "173.3333–176.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "176.6666–180.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "180.0–183.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "183.3333–186.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to design, architecture, and visually creative professions.",
+      "health": "Generally attractive vitality; watch for eye and skin sensitivity.",
+      "relationship": "Charismatic and stylish; drawn to aesthetically pleasing partnerships."
+    },
+    "compatibility": [
+      "Swati",
+      "Hasta"
+    ],
+    "description": "Chitra embodies brilliance, artistry, and visual splendor, guided by the divine architect. Natives are often magnetic, stylish, and gifted in design or creative expression. It favors work that combines beauty with structure."
+  },
+  {
+    "id": 15,
+    "name": "Swati",
+    "start_degree": 186.6667,
+    "end_degree": 200.0,
+    "ruler": "Rahu",
+    "deity": "Vayu (wind god)",
+    "symbol": "Young shoot swaying in the wind",
+    "guna": "Rajas",
+    "element": "Air",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "186.6667–190.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "190.0–193.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "193.3334–196.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "196.6667–200.0"
+      }
+    ],
+    "qualities": {
+      "career": "Excels in trade, negotiation, communication, and independent ventures.",
+      "health": "Prone to circulatory and nervous imbalances; needs balance and movement.",
+      "relationship": "Diplomatic and adaptable, but can be restless in commitment."
+    },
+    "compatibility": [
+      "Vishakha",
+      "Chitra"
+    ],
+    "description": "Swati signifies independence and the swaying, adaptable nature of the wind. Natives are diplomatic, self-reliant, and skilled negotiators. It favors flexibility and balance amid change."
+  },
+  {
+    "id": 16,
+    "name": "Vishakha",
+    "start_degree": 200.0,
+    "end_degree": 213.3333,
+    "ruler": "Jupiter",
+    "deity": "Indra-Agni (dual deity of power and fire)",
+    "symbol": "Potter's wheel / triumphal arch",
+    "guna": "Rajas",
+    "element": "Water",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "200.0–203.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "203.3333–206.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "206.6667–210.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "210.0–213.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to competitive, ambitious, and goal-driven professions.",
+      "health": "Prone to tension and overexertion; benefits from steady pacing.",
+      "relationship": "Passionate and determined; strives for balance and mutual growth."
+    },
+    "compatibility": [
+      "Anuradha",
+      "Swati"
+    ],
+    "description": "Vishakha carries the drive for achievement and determined effort toward goals. Natives are ambitious, competitive, and willing to work hard for success. It favors sustained focus over a long path."
+  },
+  {
+    "id": 17,
+    "name": "Anuradha",
+    "start_degree": 213.3333,
+    "end_degree": 226.6667,
+    "ruler": "Saturn",
+    "deity": "Mitra (god of friendship)",
+    "symbol": "Lotus flower",
+    "guna": "Sattva",
+    "element": "Fire",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "213.3333–216.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "216.6666–220.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "220.0–223.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "223.3333–226.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Thrives in friendship-based networks, counseling, and diplomacy.",
+      "health": "Generally stable; watch for issues linked to overwork and stress.",
+      "relationship": "Loyal and devoted friend and partner; values deep trust."
+    },
+    "compatibility": [
+      "Jyeshtha",
+      "Vishakha"
+    ],
+    "description": "Anuradha represents devotion, friendship, and the ability to build lasting bonds. Ruled by the god of friendship, natives are loyal and cooperative, often gifted in diplomacy. It favors deep, enduring relationships."
+  },
+  {
+    "id": 18,
+    "name": "Jyeshtha",
+    "start_degree": 226.6667,
+    "end_degree": 240.0,
+    "ruler": "Mercury",
+    "deity": "Indra (king of the gods)",
+    "symbol": "Circular earring / umbrella",
+    "guna": "Rajas",
+    "element": "Earth",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "226.6667–230.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "230.0–233.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "233.3334–236.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "236.6667–240.0"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to leadership, investigation, and positions of influence or authority.",
+      "health": "Prone to nervous exhaustion; needs adequate rest and boundaries.",
+      "relationship": "Protective and intense; can be demanding but fiercely loyal."
+    },
+    "compatibility": [
+      "Mula",
+      "Anuradha"
+    ],
+    "description": "Jyeshtha embodies seniority, protection, and the responsibilities of leadership. Natives are often intense, protective, and drawn to positions of authority. It favors courage in the face of challenge."
+  },
+  {
+    "id": 19,
+    "name": "Mula",
+    "start_degree": 240.0,
+    "end_degree": 253.3333,
+    "ruler": "Ketu",
+    "deity": "Nirriti (goddess of dissolution)",
+    "symbol": "Bundle of tied roots",
+    "guna": "Tamas",
+    "element": "Air",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "240.0–243.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "243.3333–246.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "246.6667–250.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "250.0–253.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to research into endings, letting go, and transformative or philosophical work.",
+      "health": "Prone to root-related and lower body ailments; benefits from stability practices.",
+      "relationship": "Deep and searching; must guard against destructive tendencies."
+    },
+    "compatibility": [
+      "Purva Ashadha",
+      "Jyeshtha"
+    ],
+    "description": "Mula signifies the root, representing endings, investigation, and the search for deeper truth. Natives are probing and unafraid of destruction if it leads to renewal. It favors philosophical or transformative pursuits."
+  },
+  {
+    "id": 20,
+    "name": "Purva Ashadha",
+    "start_degree": 253.3333,
+    "end_degree": 266.6667,
+    "ruler": "Venus",
+    "deity": "Apas (water goddess)",
+    "symbol": "Elephant tusk / fan",
+    "guna": "Rajas",
+    "element": "Water",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "253.3333–256.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "256.6666–260.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "260.0–263.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "263.3333–266.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Excels in advocacy, invincibility-driven pursuits, and unyielding leadership roles.",
+      "health": "Generally strong; watch for pelvic and lower back strain.",
+      "relationship": "Fierce and loyal; passionate but can be stubborn in disputes."
+    },
+    "compatibility": [
+      "Uttara Ashadha",
+      "Mula"
+    ],
+    "description": "Purva Ashadha carries the theme of invincibility and unwavering purpose. Natives are determined, proud, and resilient in pursuit of their goals. It favors bold declarations and firm convictions."
+  },
+  {
+    "id": 21,
+    "name": "Uttara Ashadha",
+    "start_degree": 266.6667,
+    "end_degree": 280.0,
+    "ruler": "Sun",
+    "deity": "Vishvedevas (universal gods)",
+    "symbol": "Elephant tusk (larger) / bed planks",
+    "guna": "Sattva",
+    "element": "Fire",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "266.6667–270.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "270.0–273.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "273.3334–276.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "276.6667–280.0"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to leadership with universal appeal, governance, and enduring achievement.",
+      "health": "Generally sturdy; benefits from consistent, disciplined habits.",
+      "relationship": "Reliable and principled; builds relationships meant to last."
+    },
+    "compatibility": [
+      "Shravana",
+      "Purva Ashadha"
+    ],
+    "description": "Uttara Ashadha represents final victory and universal, lasting achievement. Natives are principled, dependable, and capable of sustained leadership. It favors accomplishments that endure beyond the individual."
+  },
+  {
+    "id": 22,
+    "name": "Shravana",
+    "start_degree": 280.0,
+    "end_degree": 293.3333,
+    "ruler": "Moon",
+    "deity": "Vishnu (preserver)",
+    "symbol": "Ear / three footprints",
+    "guna": "Sattva",
+    "element": "Earth",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "280.0–283.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "283.3333–286.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "286.6667–290.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "290.0–293.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Thrives in listening-based professions such as counseling, music, and learning.",
+      "health": "Prone to ear and hearing-related sensitivity; benefits from quiet reflection.",
+      "relationship": "Attentive and traditional; values wisdom and steady connection."
+    },
+    "compatibility": [
+      "Dhanishta",
+      "Uttara Ashadha"
+    ],
+    "description": "Shravana is tied to listening, learning, and the transmission of wisdom. Natives are attentive, traditional, and gifted communicators or students. It favors knowledge gained through careful attention."
+  },
+  {
+    "id": 23,
+    "name": "Dhanishta",
+    "start_degree": 293.3333,
+    "end_degree": 306.6667,
+    "ruler": "Mars",
+    "deity": "Ashta Vasus (eight elemental gods)",
+    "symbol": "Drum (damaru)",
+    "guna": "Rajas",
+    "element": "Air",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "293.3333–296.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "296.6666–300.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "300.0–303.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "303.3333–306.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to rhythm, music, wealth-building, and performance-oriented professions.",
+      "health": "Prone to bone and joint concerns; benefits from rhythmic exercise.",
+      "relationship": "Generous and lively; enjoys celebration but can be restless."
+    },
+    "compatibility": [
+      "Shatabhisha",
+      "Shravana"
+    ],
+    "description": "Dhanishta embodies rhythm, wealth, and collective celebration, symbolized by the drum. Natives are lively, generous, and often musically or materially gifted. It favors group achievement and shared prosperity."
+  },
+  {
+    "id": 24,
+    "name": "Shatabhisha",
+    "start_degree": 306.6667,
+    "end_degree": 320.0,
+    "ruler": "Rahu",
+    "deity": "Varuna (god of cosmic order and water)",
+    "symbol": "Empty circle / thousand-petaled flower",
+    "guna": "Tamas",
+    "element": "Water",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "306.6667–310.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "310.0–313.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "313.3334–316.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "316.6667–320.0"
+      }
+    ],
+    "qualities": {
+      "career": "Excels in healing, unconventional thinking, and humanitarian or scientific work.",
+      "health": "Prone to nervous and skin disorders; benefits from solitude and healing practices.",
+      "relationship": "Independent and eccentric; needs space within closeness."
+    },
+    "compatibility": [
+      "Purva Bhadrapada",
+      "Dhanishta"
+    ],
+    "description": "Shatabhisha represents healing through the unconventional, connected to vast hidden knowledge. Natives are independent, inventive, and drawn to unusual or scientific pursuits. It favors solitary insight and humanitarian healing."
+  },
+  {
+    "id": 25,
+    "name": "Purva Bhadrapada",
+    "start_degree": 320.0,
+    "end_degree": 333.3333,
+    "ruler": "Jupiter",
+    "deity": "Aja Ekapada (one-footed serpent of the sky)",
+    "symbol": "Front legs of a funeral cot",
+    "guna": "Sattva",
+    "element": "Fire",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "320.0–323.3333"
+      },
+      {
+        "number": 2,
+        "degree_range": "323.3333–326.6667"
+      },
+      {
+        "number": 3,
+        "degree_range": "326.6667–330.0"
+      },
+      {
+        "number": 4,
+        "degree_range": "330.0–333.3333"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to spiritual, philosophical, or paradoxical dual-natured professions.",
+      "health": "Prone to feet and lower leg issues; watch for internal contradictions in stress.",
+      "relationship": "Idealistic yet intense; balances detachment with deep devotion."
+    },
+    "compatibility": [
+      "Uttara Bhadrapada",
+      "Shatabhisha"
+    ],
+    "description": "Purva Bhadrapada carries dual, intense energy blending idealism with inner fire. Natives are passionate and philosophically driven, sometimes torn between detachment and desire. It favors transformative spiritual pursuits."
+  },
+  {
+    "id": 26,
+    "name": "Uttara Bhadrapada",
+    "start_degree": 333.3333,
+    "end_degree": 346.6667,
+    "ruler": "Saturn",
+    "deity": "Ahir Budhya (serpent of the deep)",
+    "symbol": "Back legs of a funeral cot / twins",
+    "guna": "Sattva",
+    "element": "Earth",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "333.3333–336.6666"
+      },
+      {
+        "number": 2,
+        "degree_range": "336.6666–340.0"
+      },
+      {
+        "number": 3,
+        "degree_range": "340.0–343.3333"
+      },
+      {
+        "number": 4,
+        "degree_range": "343.3333–346.6666"
+      }
+    ],
+    "qualities": {
+      "career": "Thrives in deep research, mysticism, and quietly transformative work.",
+      "health": "Prone to sleep and immune-related concerns; benefits from grounding routines.",
+      "relationship": "Calm and profound; offers quiet, steady emotional depth."
+    },
+    "compatibility": [
+      "Revati",
+      "Purva Bhadrapada"
+    ],
+    "description": "Uttara Bhadrapada embodies deep, quiet wisdom and restrained power, linked to the serpent of the depths. Natives are calm, profound, and capable of great inner strength. It favors patient, steady transformation."
+  },
+  {
+    "id": 27,
+    "name": "Revati",
+    "start_degree": 346.6667,
+    "end_degree": 360.0,
+    "ruler": "Mercury",
+    "deity": "Pushan (nourisher and guide)",
+    "symbol": "Fish / drum",
+    "guna": "Sattva",
+    "element": "Air",
+    "pada": [
+      {
+        "number": 1,
+        "degree_range": "346.6667–350.0"
+      },
+      {
+        "number": 2,
+        "degree_range": "350.0–353.3334"
+      },
+      {
+        "number": 3,
+        "degree_range": "353.3334–356.6667"
+      },
+      {
+        "number": 4,
+        "degree_range": "356.6667–360.0"
+      }
+    ],
+    "qualities": {
+      "career": "Suited to closure-oriented, nurturing, and spiritually guided professions.",
+      "health": "Prone to feet and lymphatic sensitivity; benefits from gentle, flowing movement.",
+      "relationship": "Compassionate and intuitive; excels at gentle, healing companionship."
+    },
+    "compatibility": [
+      "Ashwini",
+      "Uttara Bhadrapada"
+    ],
+    "description": "Revati, the final nakshatra, symbolizes completion, nourishment, and gentle guidance. Natives are compassionate, intuitive, and often serve as guides for others' transitions. It favors closure that opens the way for new beginnings."
+  }
+]

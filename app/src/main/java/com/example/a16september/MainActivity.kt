@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import com.example.a16september.ui.screens.NakshatraScreen
 import com.example.a16september.ui.theme._16SeptemberTheme
 
 class MainActivity : ComponentActivity() {
@@ -12,10 +13,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             _16SeptemberTheme {
-
-
+                NakshatraScreen()
             }
         }
     }
 }
-
